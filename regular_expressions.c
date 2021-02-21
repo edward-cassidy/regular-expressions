@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "re.h"
 
+//TESTING PROGRAM
+
 int main(void) {
   char *strings[7] = {"ab", "xab", "abc", "xba", "xxx", "Hello, world", "axu"};
   Regexp *r[3];
